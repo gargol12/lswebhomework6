@@ -1,5 +1,4 @@
 //Do not change any of the function names
-
 function multiplyByTen(num) {
   //return num after multiplying it by ten
   return num * 10;
